@@ -1,5 +1,6 @@
 # Contributing
-Contributions are accepted via [pull requests](https://github.com/mitgedanken-lab/php-ds-polyfill/pulls). If you would like to report a bug, please create an [issue](https://github.com/mitgedanken-lab/php-ds-polyfill/issues) instead.
+Contributions are accepted via [pull requests](https://github.com/mitgedanken-lab/php-ds-polyfill/pulls).<br>
+If you would like to report a bug, please create an [issue](https://github.com/mitgedanken-lab/php-ds-polyfill/issues) instead.
 
 ## Issues
 - **How to reproduce** - Provide an easy way to reproduce the bug. This makes it easier for others to debug.
